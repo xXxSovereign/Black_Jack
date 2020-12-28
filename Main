@@ -1,0 +1,14 @@
+package Black_Jack;
+
+public class Main {
+    private static int bet, balance;
+
+    public static void main(String[] args) throws Throwable {
+        bet = 0;
+        balance = 25;
+        Menu menu = new Menu();
+        //Thread.sleep(2500);
+        //menu.hide();
+
+    }
+}
